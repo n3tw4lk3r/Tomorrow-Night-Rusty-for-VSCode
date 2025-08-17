@@ -1,0 +1,41 @@
+{
+  "name": "tomorrow-night-rusty",
+  "displayName": "Tomorrow Night Rusty",
+  "publisher": "n3tw4lk3r",
+  "description": "Dark theme inspired by Rust docs",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "orange",
+    "purple",
+    "green"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty-for-VSCode.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tomorrow Night Rusty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tomorrow Night Rusty.json"
+      }
+    ],
+    "semanticTokenColors": {
+      "type": "#DE935F",
+      "class": "#DE935F",
+      "struct": "#DE935F",
+      "interface": "#DE935F",
+      "enum": "#DE935F",
+      "typeParameter": "#DE935F"
+    }
+  }
+}

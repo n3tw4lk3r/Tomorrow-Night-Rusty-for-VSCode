@@ -1,0 +1,164 @@
+{
+  "name": "Tomorrow Night Rusty",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1E1F21",
+    "editor.foreground": "#C5C8C6",
+    "editor.lineHighlightBackground": "#373B4180",
+    "editorLineNumber.foreground": "#63666E",
+    "editorLineNumber.activeForeground": "#FFFFFF",
+    "editorCursor.foreground": "#8ABEB7",
+    "editor.selectionBackground": "#373B41C0",
+    "editor.inactiveSelectionBackground": "#282A2E50",
+    "editorIndentGuide.activeBackground": "#F0C67480",
+    "editorIndentGuide.background": "#373B41",
+    "editorWhitespace.foreground": "#4D5057",
+    "editorBracketMatch.background": "#81A2BE40",
+    "editorBracketMatch.border": "#81A2BE2E",
+    "editorError.foreground": "#C66",
+    "editorWarning.foreground": "#F0C674",
+    "editorInfo.foreground": "#81A2BE",
+    "editorGutter.background": "#1E1F21",
+    "sideBar.background": "#17181A",
+    "sideBar.foreground": "#C5C8C6",
+    "statusBar.background": "#17181A",
+    "tab.activeBackground": "#1C1D1F",
+    "tab.inactiveBackground": "#17181A",
+    "terminal.background": "#1E1F21",
+    "terminal.foreground": "#FFFFFF",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#FF9DA4",
+    "terminal.ansiGreen": "#B5BD68",
+    "terminal.ansiYellow": "#F0C674",
+    "terminal.ansiBlue": "#81A2BE",
+    "terminal.ansiMagenta": "#B294BB",
+    "terminal.ansiCyan": "#8ABEB7",
+    "terminal.ansiWhite": "#CCCCCC",
+    "terminal.ansiBrightBlack": "#FFFFFF40",
+    "terminal.ansiBrightRed": "#FF5B69",
+    "terminal.ansiBrightGreen": "#AAB257",
+    "terminal.ansiBrightYellow": "#EAB85B",
+    "terminal.ansiBrightBlue": "#7094B2",
+    "terminal.ansiBrightMagenta": "#A383AD",
+    "terminal.ansiBrightCyan": "#7BB2AA",
+    "terminal.ansiBrightWhite": "#F2F2F2"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#969896"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "variable.other.constant"
+      ],
+      "settings": {
+        "foreground": "#DE935F"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#85B7B1"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#B5BD68"
+      }
+    },
+    {
+      "scope": [
+        "variable.language",
+        "variable.parameter.function"
+      ],
+      "settings": {
+        "foreground": "#81A2BE"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language.boolean"
+      ],
+      "settings": {
+        "foreground": "#DE935F"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag",
+        "meta.tag"
+      ],
+      "settings": {
+        "foreground": "#92B2CA"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#DE935F"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "entity.name.type.class",
+        "entity.name.type.struct",
+        "entity.name.type.enum",
+        "storage.type.cs",
+        "support.class",
+        "support.type",
+        "meta.generic-name",
+        "meta.template.argument",
+        "meta.type.identifier",
+        "variable.other.enummember",
+        "meta.class.identifier.ts",
+        "entity.other.inherited-class",
+        "meta.type.annotation.ts",
+        "meta.type.parameters.ts"
+      ],
+      "settings": {
+        "foreground": "#DE935F"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "keyword.control",
+        "keyword.operator",
+        "storage.type",
+        "storage.modifier",
+        "storage.class",
+        "storage.function",
+        "keyword.other.typedef",
+        "keyword.other",
+        "keyword.declaration",
+        "keyword.type",
+        "keyword.control.import",
+        "keyword.control.flow",
+        "keyword.control.exception",
+        "keyword.return"
+      ],
+      "settings": {
+        "foreground": "#B294BB"
+      }
+    }
+  ]
+}
