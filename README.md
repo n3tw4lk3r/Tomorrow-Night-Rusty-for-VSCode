@@ -11,7 +11,7 @@ Dark VSCode theme inspired by Rust docs (https://doc.rust-lang.org/book/). Looks
 1. Click **Install** to install it
 1. Navigate to File > Preferences > Color Theme > **Tomorrow Night Rusty**
 
-Add this line to your settings.json for better syntax highlighting: <Ctrl-Shift-P> > Preferences: Open User Settings (JSON)
+Add this line to your settings.json for better syntax highlighting: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Preferences: Open User Settings (JSON)
 
 ```json
 "editor.semanticHighlighting.enabled": true,
