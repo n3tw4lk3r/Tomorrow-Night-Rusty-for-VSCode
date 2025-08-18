@@ -3,3 +3,7 @@
 
 ## 1.0.1
 - Add correct installion instructions
+
+## 1.1.0
+- Add icon for the extension
+- Reorganize project structure

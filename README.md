@@ -2,7 +2,7 @@
 
 Dark VSCode theme inspired by Rust docs (https://doc.rust-lang.org/book/). Looks similar to Microsoft's Tomorrow Night with some modifications.
 
-![Theme Screenshot](images/code_sample.png)
+![Theme Screenshot](assets/images/preview.png)
 
 # Installation
 
