@@ -1,8 +1,7 @@
 # Tomorrow Night Rusty 
 
-Dark VSCode theme inspired by code snippets from Rust docs (https://doc.rust-lang.org/book/). Supports most popular programming languages (C/C++, Python, JavaScript, Rust, Go, Java, C# and more).
+Dark VSCode theme inspired by Rust docs (https://doc.rust-lang.org/book/). Looks similar to Microsoft's Tomorrow Night with some modifications.
 
-# Preview
 ![Theme Screenshot](assets/images/preview.png)
 
 # Installation
