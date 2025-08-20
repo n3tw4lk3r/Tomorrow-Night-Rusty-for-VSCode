@@ -3,7 +3,7 @@
   "displayName": "Tomorrow Night Rusty",
   "publisher": "n3tw4lk3r",
   "description": "Dark theme inspired by Rust docs",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "icon": "assets/images/icon.png",
   "engines": {
     "vscode": "^1.70.0"
