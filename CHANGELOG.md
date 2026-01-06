@@ -17,8 +17,13 @@
 - Improve README.md: add alternative installation instructions and feedback options
 - Replace theme screenshot for an actual screenshot from VSCode
 
-## 1.3.1 
+## 1.3.1
 - Add accurate extension description in README.md
 - Add accurate extension description in package.json
 - Add Github issue tracker link in VSCode UI
+
+## 1.3.2
+- Replace theme screenshot: shorter code example, comments in English
+- Shorten theme description in package.json
+- Update README.md: reposition advice on better syntax highlighting
 
