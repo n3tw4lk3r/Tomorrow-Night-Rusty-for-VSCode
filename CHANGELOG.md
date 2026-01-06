@@ -13,7 +13,12 @@
 - Replace theme screenshot
 
 ## 1.3.0
-- change terminal.foreground color to match editor.foreground color
+- Change terminal.foreground color to match editor.foreground color
 - Improve README.md: add alternative installation instructions and feedback options
 - Replace theme screenshot for an actual screenshot from VSCode
+
+## 1.3.1 
+- Add accurate extension description in README.md
+- Add accurate extension description in package.json
+- Add Github issue tracker link in VSCode UI
 
