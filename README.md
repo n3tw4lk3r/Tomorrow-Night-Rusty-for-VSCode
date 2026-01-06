@@ -19,18 +19,19 @@ Supports most popular programming languages (C/C++, Python, JavaScript, Rust, Go
 3. Click **Install** to install it
 4. Navigate to File > Preferences > Themes > Color Theme > **Tomorrow Night Rusty**
 
-Add this line to your settings.json for better syntax highlighting: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Preferences: Open User Settings (JSON)
-
-```json
-"editor.semanticHighlighting.enabled": true,
-```
-
 ## Manual Installation
 Alternatively, you can get .vsix from the latest release here: https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty-for-VSCode/releases
 
 Then:
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Press `...` → `Install from VSIX...` and select your downloaded .vsix file
+
+## Additional Improvement
+For better syntax highlighting, add this line to your settings.json: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Preferences: Open User Settings (JSON)
+
+```json
+"editor.semanticHighlighting.enabled": true,
+```
 
 ## Feedback
 Feel free to open an issue on GitHub, or rate this extension in VSCode Marketplace!
