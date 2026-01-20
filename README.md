@@ -1,6 +1,6 @@
 # Tomorrow Night Rusty 
 
-Unofficial dark VS Code theme inspired by code snippets from The Rust Programming Language (“The Book”) and Rust By Example.
+An unofficial dark VS Code theme inspired by code snippets from The Rust Programming Language (“The Book”) and Rust By Example.
 https://doc.rust-lang.org/book/
 https://doc.rust-lang.org/stable/rust-by-example/
 
