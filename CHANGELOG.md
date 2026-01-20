@@ -31,3 +31,4 @@
 - Replace theme icon
 - Change repository name to Tomorrow-Night-Rusty
 - Add article an in theme description
+- Make theme description in package.json more informative
