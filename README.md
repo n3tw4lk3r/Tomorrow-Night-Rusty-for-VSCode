@@ -20,7 +20,7 @@ Supports most popular programming languages (C/C++, Python, JavaScript, Rust, Go
 4. Navigate to File > Preferences > Themes > Color Theme > **Tomorrow Night Rusty**
 
 ## Manual Installation
-Alternatively, you can get .vsix from the latest release here: https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty-for-VSCode/releases
+Alternatively, you can get .vsix from the latest release here: https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty/releases
 
 Then:
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
