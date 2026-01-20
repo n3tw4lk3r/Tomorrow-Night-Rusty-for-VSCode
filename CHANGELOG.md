@@ -27,3 +27,7 @@
 - Shorten theme description in package.json
 - Update README.md: reposition advice on better syntax highlighting
 
+## 1.4.0
+- Replace theme icon
+- Change repository name to Tomorrow-Night-Rusty
+- Add article an in theme description
