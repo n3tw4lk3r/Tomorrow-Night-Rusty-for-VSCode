@@ -2,7 +2,7 @@
   "name": "tomorrow-night-rusty",
   "displayName": "Tomorrow Night Rusty",
   "publisher": "n3tw4lk3r",
-  "description": "Dark theme inspired by code snippets from The Rust Programming Language (“The Book”).",
+  "description": "A dark theme inspired by code snippets from The Rust Programming Language (“The Book”).",
   "version": "1.4.0",
   "icon": "assets/images/icon.png",
   "engines": {
