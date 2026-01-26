@@ -32,3 +32,9 @@
 - Change repository name to Tomorrow-Night-Rusty
 - Add article an in theme description
 - Make theme description in package.json more informative
+
+## 1.4.1
+- Replace theme icon: title in the middle, no additional text
+- Add article in description in package.json: "A dark theme..."
+- Add "docs" keyword in package.json
+
